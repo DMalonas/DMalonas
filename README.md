@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 ![Alt text]([https://github.com/DMalonas/resources/blob/main/oranges.png](https://github.com/DMalonas/resources/blob/main/oranges.png?raw=true) "banner")
+![oranges](https://github.com/DMalonas/resources/blob/main/oranges.png?raw=true)
+![Banner](https://drive.google.com/uc?export=view&id=1xb-e5uoVhZMdjQFkf7hMSiwaqfFM1Bww)
 
 
 - 🔭 I’m currently working on ...
