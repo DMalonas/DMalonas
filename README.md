@@ -4,7 +4,8 @@
 **DMalonas/DMalonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![Alt text](URL_to_image "Optional title")
+![Alt text](https://github.com/DMalonas/resources/blob/main/oranges.png "banner")
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
