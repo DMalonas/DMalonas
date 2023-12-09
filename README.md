@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![Banner](https://drive.google.com/uc?export=view&id=1xb-e5uoVhZMdjQFkf7hMSiwaqfFM1Bww)
+![oranges](https://raw.githubusercontent.com/DMalonas/resources/main/oranges.png)
 
 
 - 🔭 I’m currently working on ...
