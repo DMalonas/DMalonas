@@ -11,6 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="YOUR_LINKEDIN_PROFILE" target="blank"><img align="center" src="LINK_TO_LINKEDIN_ICON" alt="YOUR_LINKEDIN_USERNAME" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dimi-malonas-686abc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimi-malonas-686abc" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
