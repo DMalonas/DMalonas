@@ -20,7 +20,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/dimi-malonas-686abc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimi-malonas-686abc" height="30" width="40" /></a>
 https://media.giphy.com/media/oNvEMf4dw4UB4aJn0e/giphy.gif
-<a href="https://www.linkedin.com/in/dimi-malonas-686abc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimi-malonas-686abc" height="30" width="40" /></a>
 
 </p>
 
