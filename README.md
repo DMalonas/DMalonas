@@ -1,3 +1,11 @@
+<div align="center">
+  <img height="150" src="https://github.com/DMalonas/resources/blob/main/invisible-spacer.png?raw=true" />
+</div>
+
+<!-- Your actual content -->
+<div align="center"> <!-- Center align everything -->
+
+![Background Image](https://github.com/DMalonas/resources/blob/main/img-sth2.png?raw=true)
 
 [![MasterHead](https://github.com/DMalonas/resources/blob/main/li-bk-pic%20(1).gif?raw=true)](https://www.linkedin.com/in/dimi-malonas-686abc/)
 ![Background Image](https://github.com/DMalonas/resources/blob/main/img-sth2.png?raw=true)
