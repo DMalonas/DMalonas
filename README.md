@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 ![oranges](https://raw.githubusercontent.com/DMalonas/resources/main/oranges.png)
+![oranges](https://raw.githubusercontent.com/DMalonas/resources/main/oranges.png)
 
 
 - 🔭 I’m currently working on ...
