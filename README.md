@@ -2,7 +2,7 @@
 [![MasterHead](https://github.com/DMalonas/resources/blob/main/li-bk-pic%20(1).gif?raw=true)](https://www.linkedin.com/in/dimi-malonas-686abc/)
 
 <h1 align="center">Hi 👋, I'm Dimitris Malonas</h1>
-<h3 align="center">Interesting in connecting with like minded technical individuals ✨</h3>
+<h3 align="center">Interested in connecting with like minded technical individuals ✨</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/DMalonas/resources/blob/main/Gen-2%20875578244,%20catpng,%20M%205.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DMalonas&label=Profile%20views&color=0e75b6&style=flat" alt="DMalonas" /> </p>
