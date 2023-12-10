@@ -1,5 +1,6 @@
 ### Hi👋 Im Dimitris Malonas
-[![MasterHead](YOUR_BANNER_IMAGE_LINK)](YOUR_WEBSITE_LINK)
+[![MasterHead](https://github.com/DMalonas/resources/blob/main/oranges.png?raw=true)](https://www.linkedin.com/in/dimi-malonas-686abc/)
+
 <h1 align="center">Hi 👋, I'm Dimitris Malonas</h1>
 <h3 align="center">Interesting in connecting with like minded technical individuals ✨</h3>
 <img align="right" alt="coding" width="400" src="YOUR_GIF_LINK">
