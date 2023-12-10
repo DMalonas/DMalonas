@@ -15,7 +15,8 @@
 
 </p>
 
-<h3 align="left">Languages & frameworks:</h3>
+<h3 align="left" style="font-weight: bold; color: #e67e22;">Languages & frameworks:</h3>
+
 <p align="left">
 
 
