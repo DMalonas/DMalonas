@@ -1,5 +1,6 @@
 
 [![MasterHead](https://github.com/DMalonas/resources/blob/main/li-bk-pic%20(1).gif?raw=true)](https://www.linkedin.com/in/dimi-malonas-686abc/)
+![Background Image](https://github.com/DMalonas/resources/blob/main/img-sth2.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Dimitris Malonas</h1>
 <h3 align="center">Interested in connecting with like minded technical individuals ✨</h3>
