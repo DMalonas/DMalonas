@@ -17,7 +17,88 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<!-- Add your languages and tools in a similar manner -->
+
+
+	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+	</a> 
+
+
+  &nbsp;|&nbsp;
+
+
+	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+	</a> 
+
+ <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+</a>
+
+<a href="https://gradle.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="Gradle" width="40" height="40"/>
+</a>
+
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+
+  &nbsp;|&nbsp;
+
+
+
+<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
+  <img src="https://developer.android.com/images/jetpack/compose/compose-beta.png" alt="Jetpack Compose" width="40" height="40"/>
+</a>
+ 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+</a>
+
+ <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+</a>
+
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a> 
+
+
+
+  &nbsp;|&nbsp;
+
+
+
+	<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+	</a> 
+
+	<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+	</a> 
+
+ 	<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+		<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+	</a> 
+
+   &nbsp;|&nbsp;
+
+
+
+
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+		<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+	</a> 
+
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+	</a> 
+ 
+	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+	</a> 
+
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DMalonas&show_icons=true&locale=en&layout=compact" alt="DMalonas" /></p>
