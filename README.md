@@ -1,4 +1,3 @@
-### Hi👋 Im Dimitris Malonas
 
 [![MasterHead](https://github.com/DMalonas/resources/blob/main/li-bk-pic%20(1).gif?raw=true)](https://www.linkedin.com/in/dimi-malonas-686abc/)
 
