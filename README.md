@@ -6,12 +6,20 @@
 <h3 align="center">Interested in connecting with like minded technical individuals ✨</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/DMalonas/resources/blob/main/Gen-2%20875578244,%20catpng,%20M%205.gif?raw=true">
 
+
+<p align="right">
+  <img width="400" src="https://media.giphy.com/media/oNvEMf4dw4UB4aJn0e/giphy.gif" alt="Animated GIF">
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DMalonas&label=Profile%20views&color=0e75b6&style=flat" alt="DMalonas" /> </p>
 
 - 📫 How to reach me **dimitriosmalonas@outlook/gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/dimi-malonas-686abc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimi-malonas-686abc" height="30" width="40" /></a>
+https://media.giphy.com/media/oNvEMf4dw4UB4aJn0e/giphy.gif
 <a href="https://www.linkedin.com/in/dimi-malonas-686abc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimi-malonas-686abc" height="30" width="40" /></a>
 
 </p>
