@@ -122,6 +122,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DMalonas&" alt="DMalonas" /></p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=DMalonas&theme=onedark" alt="DMalonas" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DMalonas" alt="DMalonas" />
 </p>
+
 
