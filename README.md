@@ -3,7 +3,7 @@
 ![Background Image](https://github.com/DMalonas/resources/blob/main/img-sth2.png?raw=true)
 -->
 <h1 align="center">Hi 👋, I'm Dimitris Malonas</h1>
-<h3 align="center">Interested in connecting with like minded technical individuals ✨</h3>
+<h3 align="center">Interested in connecting with like minded technical individuals </h3>
  <img align="right" alt="coding" width="400" src="https://github.com/DMalonas/resources/blob/main/Gen-2%20875578244,%20catpng,%20M%205.gif?raw=true"> 
 
 <!--
