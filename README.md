@@ -23,24 +23,6 @@
 
 </p>
 
-
----
-
-<h3 align="left">Autonomous Agents / Boids</h3>
-
-<p align="left">
-  <a href="https://dmalonas.github.io/DMalonas/projects/autonomous_agents_nature_of_code_demo.html" target="_blank">
-    <img src="assets/boids-preview.gif" alt="Animated flocking / boids simulation" width="720" />
-  </a>
-</p>
-
-<p align="left">
-  <b>Flocking = separation + alignment + cohesion.</b><br/>
-  <a href="https://dmalonas.github.io/DMalonas/projects/autonomous_agents_nature_of_code_demo.html">Open live demo</a>
-</p>
-
----
-
 ### **Languages & frameworks:**
 
 <p align="left">
